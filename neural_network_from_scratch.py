@@ -1,17 +1,4 @@
 """
-================================================================================
-IPS Tech Intern 2026 - Weekend Challenge 1
-Neural Network from Scratch using NumPy
-================================================================================
-
-This implementation complies with all restrictions:
-- No TensorFlow, PyTorch, Keras, or Scikit-learn neural network modules.
-- Written from scratch using NumPy, Pandas, and Matplotlib.
-
---------------------------------------------------------------------------------
-VIVA VOCE & PAPER-AND-PEN EXAM STUDY GUIDE
---------------------------------------------------------------------------------
-Below is the core mathematical breakdown of the neural network components.
 
 1. WEIGHTS AND BIASES
    - Weights (W): Represent strength of connections between layers. They scale the
